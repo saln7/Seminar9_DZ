@@ -1,0 +1,15 @@
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\bin\Debug\net6.0\Seminar9_DZ.exe
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\bin\Debug\net6.0\Seminar9_DZ.deps.json
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\bin\Debug\net6.0\Seminar9_DZ.runtimeconfig.json
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\bin\Debug\net6.0\Seminar9_DZ.dll
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\bin\Debug\net6.0\Seminar9_DZ.pdb
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\Seminar9_DZ.csproj.AssemblyReference.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\Seminar9_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\Seminar9_DZ.AssemblyInfoInputs.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\Seminar9_DZ.AssemblyInfo.cs
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\Seminar9_DZ.csproj.CoreCompileInputs.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\Seminar9_DZ.dll
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\refint\Seminar9_DZ.dll
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\Seminar9_DZ.pdb
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\Seminar9_DZ.genruntimeconfig.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Seminar9_DZ\obj\Debug\net6.0\ref\Seminar9_DZ.dll
